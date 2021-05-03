@@ -21,9 +21,9 @@ Using third-party libraries is totally ok, and even encouraged, if you clearly s
 ## Some publicly avaiable IP addresses
 Here are some publicly available IP addresses you can use for this challenge. (However you don't have to use these, as long as they are accessible by us, you can use any camera source)
 
-http://84.82.29.229:8080/mjpg/video.mjpg
-http://138.16.162.37:80/mjpg/video.mjpg
-http://138.16.162.33:80/mjpg/video.mjpg
-http://91.150.61.77:80/mjpg/video.mjpg
+- http://84.82.29.229:8080/mjpg/video.mjpg
+- http://138.16.162.37:80/mjpg/video.mjpg
+- http://138.16.162.33:80/mjpg/video.mjpg
+- http://91.150.61.77:80/mjpg/video.mjpg
 
 Best of luck 🍀
