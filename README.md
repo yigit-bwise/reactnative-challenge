@@ -3,7 +3,7 @@
 ## Objective
 Your task is to implement a simple app, where the user can enter IP address of a digital camera and stream it to the phone.
 
-Simply, clone this repo and build on top of the current codebase (`expo start` to build and run).
+Simply, fork this repo and build on top of the current codebase (`expo start` to build and run).
 When you are done with your solution, please share a link to your repo via email: yigit@buddywise.co
 
 ## Required Features
